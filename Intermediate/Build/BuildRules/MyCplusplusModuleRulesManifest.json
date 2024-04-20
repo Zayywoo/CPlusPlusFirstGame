@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal_project\\MyCplusplus\\Source\\MyCplusplus\\MyCplusplus.Build.cs",
+		"D:\\Unreal_project\\MyCplusplus\\Source\\MyCplusplus.Target.cs",
+		"D:\\Unreal_project\\MyCplusplus\\Source\\MyCplusplusEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.4"
+}

@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MyCplusplus.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{351224A5-3AF6-4648-96BF-9D66B547A7DA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyCplusplus.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MyCplusplusEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{E867855C-9F25-4553-91C2-357C8007E4D2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MyCplusplus">
+      <UniqueIdentifier>{500179FD-1F7E-4B71-8126-B2C84181985B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyCplusplus\MyCplusplus.Build.cs">
+      <Filter>Source\MyCplusplus</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MyCplusplus\MyCplusplus.cpp">
+      <Filter>Source\MyCplusplus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyCplusplus\MyCplusplus.h">
+      <Filter>Source\MyCplusplus</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyCplusplus\MyCplusplusGameModeBase.cpp">
+      <Filter>Source\MyCplusplus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyCplusplus\MyCplusplusGameModeBase.h">
+      <Filter>Source\MyCplusplus</Filter>
+    </ClInclude>
+    <Filter Include="Source\MyCplusplus\Private">
+      <UniqueIdentifier>{912D3DB1-8835-4037-99DC-0A2EAD94911A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MyCplusplus\Private\LAttributeComponoent.cpp">
+      <Filter>Source\MyCplusplus\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MyCplusplus\Private\LCharacter.cpp">
+      <Filter>Source\MyCplusplus\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MyCplusplus\Private\LGameplayInterface.cpp">
+      <Filter>Source\MyCplusplus\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MyCplusplus\Private\LInteractionComponent.cpp">
+      <Filter>Source\MyCplusplus\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MyCplusplus\Private\LItemChest.cpp">
+      <Filter>Source\MyCplusplus\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MyCplusplus\Private\LMagicProjectile.cpp">
+      <Filter>Source\MyCplusplus\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\MyCplusplus\Public">
+      <UniqueIdentifier>{F0862F83-724A-472B-8B63-29FEE0619D64}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\MyCplusplus\Public\LAttributeComponoent.h">
+      <Filter>Source\MyCplusplus\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MyCplusplus\Public\LCharacter.h">
+      <Filter>Source\MyCplusplus\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MyCplusplus\Public\LGameplayInterface.h">
+      <Filter>Source\MyCplusplus\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MyCplusplus\Public\LInteractionComponent.h">
+      <Filter>Source\MyCplusplus\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MyCplusplus\Public\LItemChest.h">
+      <Filter>Source\MyCplusplus\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MyCplusplus\Public\LMagicProjectile.h">
+      <Filter>Source\MyCplusplus\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
